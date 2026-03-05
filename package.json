@@ -1,0 +1,33 @@
+{
+  "name": "alice-frontend-demo",
+  "version": "1.0.0",
+  "description": "A modern, responsive frontend demonstration created by Alice, the Frontend Development Worker",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx serve .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "frontend",
+    "demo",
+    "responsive",
+    "html5",
+    "css3",
+    "javascript",
+    "accessibility"
+  ],
+  "author": "Alice <alice@hiclaw.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yfm369/alice-frontend-demo.git"
+  },
+  "homepage": "https://github.com/yfm369/alice-frontend-demo#readme",
+  "bugs": {
+    "url": "https://github.com/yfm369/alice-frontend-demo/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
